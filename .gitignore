@@ -1,0 +1,4 @@
+.vagrant/
+worlds/*
+!worlds/.gitkeep
+.env
