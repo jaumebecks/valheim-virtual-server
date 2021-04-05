@@ -129,7 +129,7 @@ Reached this point, you'll have a Virtual machine running under your default OS.
 
 #### Port Forwarding
 
-  As a last step, you need to open TCP/UDP ports 2456, 2457 & 2458. To do so, access your router's configuration (using your `GATEWAY_IP`). Refer to [docs#GUEST_IP](docs/envvars.md#GUEST_IP) to get more info.
+  As a last step, you need to open TCP&UDP ports 2456, 2457 & 2458. To do so, access your router's configuration (using your `GATEWAY_IP`). Refer to [docs#GUEST_IP](docs/envvars.md#GUEST_IP) to get more info.
 
   Once you have everything set up, run `vagrant reload` in project root, and you'll be ready to serve your awesome world through a Virtual Machine!
 
